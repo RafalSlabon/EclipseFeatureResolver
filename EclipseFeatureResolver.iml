@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="JRUBY" name="JRuby">
+      <configuration>
+        <JRUBY_FACET_CONFIG_ID NAME="JRUBY_SDK_NAME" VALUE="RVM: jruby-1.6.6 [global]" />
+        <LOAD_PATH number="0" />
+        <I18N_FOLDERS number="0" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="RVM: jruby-1.6.6 [global] facet library" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v1.0.22, RVM: jruby-1.6.6 [global]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="xml-simple (v1.1.1, RVM: jruby-1.6.6 [global]) [gem]" level="application" />
+  </component>
+</module>
+

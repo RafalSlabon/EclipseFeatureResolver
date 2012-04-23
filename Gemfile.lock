@@ -1,0 +1,10 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    xml-simple (1.1.1)
+
+PLATFORMS
+  java
+
+DEPENDENCIES
+  xml-simple
